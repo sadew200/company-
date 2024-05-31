@@ -1,0 +1,22 @@
+.types{
+    background-color: lightblue;
+    color:black;
+    background-color: rgb(0, 0, 0,0.5);
+    color:chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 40%;
+    margin-left: 10%;
+    
+    
+    padding: 20px;
+      
+  }
+  body{
+    background-image: url(imgs/bg56.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  .name{
+    color: yellow;
+  }
+  
